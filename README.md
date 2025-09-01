@@ -52,7 +52,7 @@
   <a target="_blank" href="https://www.linkedin.com/in/jeremiah-snipes-105229199/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:j.snipes5251@student.nu.edu">
-    <img src="https://img.shields.io/badge/Email-EB4432.svg?&style=for-the-badge&logo=maildotru&logoColor=white" />
+  <a target="_blank" href="https://mail.google.com/mail/?view=cm&fs=1&to=j.snipes5251@student.nu.edu">
+    <img src="https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
