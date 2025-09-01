@@ -49,6 +49,10 @@
 ### 📫 Reach Me On
 
 <p>
-  <a target="_blank" href="https://www.linkedin.com/in/jeremiah-snipes-105229199/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:j.snipes5251@student.nu.edu?subject=Hello%20Jeremiah,%20From%20Github"><img src="https://img.shields.io/badge/Email-0056D2.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a target="_blank" href="https://www.linkedin.com/in/jeremiah-snipes-105229199/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:j.snipes5251@student.nu.edu">
+    <img src="https://img.shields.io/badge/Email-333333.svg?&style=for-the-badge&logo=minutemailer&logoColor=white" />
+  </a>
 </p>
