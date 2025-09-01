@@ -48,5 +48,11 @@
 
 ### 📫 Reach Me On
 
-- [LinkedIn](https://www.linkedin.com/in/jeremiah-snipes-105229199/)  
-- 📧 j.snipes5251@student.nu.edu
+<p>
+  <a target="_blank" href="https://www.linkedin.com/in/jeremiah-snipes-105229199/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:j.snipes5251@student.nu.edu">
+    <img src="https://img.shields.io/badge/Email-EB4432.svg?&style=for-the-badge&logo=maildotru&logoColor=white" />
+  </a>
+</p>
